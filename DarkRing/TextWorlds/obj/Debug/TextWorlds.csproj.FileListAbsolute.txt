@@ -1,0 +1,12 @@
+C:\Users\hasan.kaygın\source\repos\TextWorlds\TextWorlds\bin\Debug\TextWorlds.dll
+C:\Users\hasan.kaygın\source\repos\TextWorlds\TextWorlds\bin\Debug\TextWorlds.pdb
+C:\Users\hasan.kaygın\source\repos\TextWorlds\TextWorlds\obj\Debug\TextWorlds.csproj.AssemblyReference.cache
+C:\Users\hasan.kaygın\source\repos\TextWorlds\TextWorlds\obj\Debug\TextWorlds.csproj.CoreCompileInputs.cache
+C:\Users\hasan.kaygın\source\repos\TextWorlds\TextWorlds\obj\Debug\TextWorlds.dll
+C:\Users\hasan.kaygın\source\repos\TextWorlds\TextWorlds\obj\Debug\TextWorlds.pdb
+C:\Users\hasan.kaygın\Documents\GitHub\DarkRing\TextWorlds\bin\Debug\TextWorlds.dll
+C:\Users\hasan.kaygın\Documents\GitHub\DarkRing\TextWorlds\bin\Debug\TextWorlds.pdb
+C:\Users\hasan.kaygın\Documents\GitHub\DarkRing\TextWorlds\obj\Debug\TextWorlds.csproj.AssemblyReference.cache
+C:\Users\hasan.kaygın\Documents\GitHub\DarkRing\TextWorlds\obj\Debug\TextWorlds.csproj.CoreCompileInputs.cache
+C:\Users\hasan.kaygın\Documents\GitHub\DarkRing\TextWorlds\obj\Debug\TextWorlds.dll
+C:\Users\hasan.kaygın\Documents\GitHub\DarkRing\TextWorlds\obj\Debug\TextWorlds.pdb
